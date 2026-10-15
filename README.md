@@ -41,7 +41,7 @@ Où on a mis en places les fonctionnalité suivante : fichier de configuration, 
 
 - Technologies : Java et Vscode
 - Type : [Projet scolaire]
-- [Lien vers le dépôt]
+- https://github.com/Le-Madec-Jean/ServerWeb_GALLOIS_LE_MADEC
 
 
 
