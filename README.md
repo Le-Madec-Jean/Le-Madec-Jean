@@ -38,8 +38,9 @@ Nous avons dû réfléchir à la conception, car nous avons dû fournir des diag
 
 ### Serveur Web🔹 
 En équipe de 2, nous avons du mettre en place le service dans serveur web
+Où on a mis en places les fonctionnalité suivante : fichier de configuration, gestion de cache, Etat du serveur, encodage et Code Dynamique
 
-- Technologies : [Langages et outils]
+- Technologies : Java et Vscode
 - Type : [Projet scolaire]
 - [Lien vers le dépôt]
 
